@@ -1,0 +1,40 @@
+{
+  "_args": [
+    [
+      "x2js@https://github.com/abdmob/x2js/tarball/v1.2.0",
+      "/Users/user/code/datalift-management/frontend"
+    ]
+  ],
+  "_from": "x2js@https://github.com/abdmob/x2js/tarball/v1.2.0",
+  "_id": "x2js@https://github.com/abdmob/x2js/tarball/v1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-aF7rVrwX9R+7NBBVX0nM2oC5cVo=",
+  "_location": "/x2js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "x2js@https://github.com/abdmob/x2js/tarball/v1.2.0",
+    "name": "x2js",
+    "escapedName": "x2js",
+    "rawSpec": "https://github.com/abdmob/x2js/tarball/v1.2.0",
+    "saveSpec": "https://github.com/abdmob/x2js/tarball/v1.2.0",
+    "fetchSpec": "https://github.com/abdmob/x2js/tarball/v1.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": false,
+  "_spec": "https://github.com/abdmob/x2js/tarball/v1.2.0",
+  "_where": "/Users/user/code/datalift-management/frontend",
+  "description": "XML <=> JSON mapping/converting library",
+  "ignore": [
+    ".hg*",
+    ".project",
+    "*.html",
+    "**/*.txt"
+  ],
+  "license": "Apache Licence v2",
+  "main": "xml2json.min.js",
+  "name": "x2js",
+  "version": "1.2.0"
+}
